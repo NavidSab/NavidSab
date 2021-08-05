@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Navid Sabbaghi
-- 👀 I’m interested in Software Develope
-- 🌱 I’m currently learning React.js
-- 📫 navidsky10@gmail.com
+  linkedin :  https://www.linkedin.com/in/navid-sabbaghi-05304874/
+  📫 navidsky10@gmail.com
 
 <!---
 NavidSab/NavidSab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
