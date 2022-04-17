@@ -16,7 +16,7 @@
   <h3> 💻 Languages and Tools </h3>
   <p>
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-    <img src="https://camo.githubusercontent.com/13ab2f5c9f340835024af3119926f1525181953e93dcd485277209e91b0affcd/68747470733a2f2f626c6f672e6879706572696f6e6465762e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30392f426c6f672d41727469636c652d4d45524e2d537461636b2e6a7067"   width="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png"   width="100">
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
     <img src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" width="70">
